@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PINNED = (ROOT / "comfyui-cuesync" / "install.py", ROOT / "comfyui-cuesync" / "pyproject.toml")
-PIN = re.compile(r"(github\.com/grzenio22/cue-the-boom@)[0-9a-f]{40}(#subdirectory=cuesync)")
+PIN = re.compile(r"(github\.com/grzegorzszmulik22/cue-the-boom@)[0-9a-f]{40}(#subdirectory=cuesync)")
 
 
 def main():

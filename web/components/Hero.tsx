@@ -50,7 +50,7 @@ export default function Hero() {
           </ul>
           <div className="row hero-actions">
             <a className="btn hero-cta" href="#studio">Perform it with your voice</a>
-            <a className="btn secondary" href="https://github.com/grzenio22/cue-the-boom" target="_blank" rel="noreferrer">Open source on GitHub</a>
+            <a className="btn secondary" href="https://github.com/grzegorzszmulik22/cue-the-boom" target="_blank" rel="noreferrer">Open source on GitHub</a>
           </div>
         </div>
         <div className="hero-stage">

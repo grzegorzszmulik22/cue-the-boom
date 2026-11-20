@@ -48,7 +48,7 @@ IC-LoRA in ComfyUI; water, lightning and the explosion's blast are made on this 
 the hand and the voice. This Space runs on a CPU, no GPU: a new shot takes about 20 to 50 s (fire 45 s, water 18 s,
 measured on 2 Nov).
 
-The full app, with renders of its own on a GPU: https://github.com/grzenio22/cue-the-boom
+The full app, with renders of its own on a GPU: https://github.com/grzegorzszmulik22/cue-the-boom
 
 See [LICENSE](LICENSE), [NOTICE.md](NOTICE.md), and [sample credits](samples/CREDITS.md) for redistribution terms.
 """

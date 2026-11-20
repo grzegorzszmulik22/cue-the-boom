@@ -5,11 +5,11 @@ version = "0.1.0"
 license = { file = "LICENSE" }
 dependencies = [
   "transformers>=4.56",
-  "cuesync @ git+https://github.com/grzenio22/cue-the-boom@0b26a84c3e73c0e9862f5b7620022f70e1728c35#subdirectory=cuesync",
+  "cuesync @ git+https://github.com/grzegorzszmulik22/cue-the-boom@0b26a84c3e73c0e9862f5b7620022f70e1728c35#subdirectory=cuesync",
 ]
 
 [project.urls]
-Repository = "https://github.com/grzenio22/cue-the-boom"
+Repository = "https://github.com/grzegorzszmulik22/cue-the-boom"
 
 [tool.comfy]
 PublisherId = "grzenio22"

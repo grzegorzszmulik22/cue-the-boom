@@ -34,7 +34,7 @@ Clone the whole repository into `ComfyUI/custom_nodes/` (or paste its URL into C
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/grzenio22/cue-the-boom
+git clone https://github.com/grzegorzszmulik22/cue-the-boom
 pip install -r cue-the-boom/requirements.txt
 ```
 
