@@ -1,6 +1,6 @@
 """Build the demo video from a storyboard: a JSON list of beats, rendered to one 1920x1080 MP4 with sound.
 
-    python tools/demo/build_demo.py tools/demo/storyboard.json -o runs/demo/demo.mp4
+    python tools/demo/build_demo.py runs/demo/storyboard.json -o runs/demo/demo.mp4
 
 Beats (all times in seconds; text may use \\n):
   {"type": "title", "dur": 3, "text": "...", "sub": "..."}

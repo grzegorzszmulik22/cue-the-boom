@@ -11,6 +11,6 @@ not part of the repository).
 | `pack_made_ahead.py` | Packs shots made with `cuesync precompute` small enough to ship in `samples/made_ahead`. |
 | `make_hand_noises.py` | The synthetic sample noises for the elements made from a hand (`zzzzz-tsst.wav`, `boooom.wav`, `shhhhh-sploosh.wav`, `hoooo.wav`, `hoo-hoo-HOO.wav` in `samples/voices`), the same bytes every time. |
 | `make_readme_images.py` | `media/hero.jpg` and `media/how-it-was-made.jpg` from the sample shots. |
-| `demo/build_demo.py`, `demo/storyboard.json` | The demo video from a storyboard of clips, stills, titles and raw-render-vs-shot comparisons, with each shot's sound drawn under it. Its inputs are shots and screen recordings in `runs/`. |
-| `demo/make_storyboard.py`, `demo/*_card.py` | The submitted cut's storyboard, and its cards (how it's made, the ComfyUI graph, the README's hands). Its footage is the author's takes, kept outside the repository. |
+| `demo/build_demo.py` | Renders a demo video from a storyboard JSON of clips, stills, titles and raw-render-vs-shot comparisons, with each shot's sound drawn under it. Its inputs are shots and screen recordings in `runs/`. |
+| `demo/*_card.py`, `demo/readme_gif.py` | The README's images and the demo's cards (how it's made, the ComfyUI graph, the hands, the seven voices). Some read the author's takes, which are kept outside the repository. |
 | `demo/record_studio.py` | Records the studio in use (a fake microphone, drawing, re-timing, your own clip with its hand followed; `--hd` for sharp frames) for the demo. Needs Playwright. |
