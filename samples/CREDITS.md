@@ -92,7 +92,7 @@ Pexels clip itself (at 720p), so a hand of your own can be tried with no camera.
 | `made_ahead/scene/real_kuri_photo__fwoooom` | [Red kuri pumpkin centred on a counter (photo)](https://pixabay.com/photos/pumpkin-autumn-red-kuri-squash-1583767/) | sparparim | Pixabay Content License |
 | `made_ahead/scene/real_pumpkins_tap__fwoooom` | [Two Pumpkins Placed Near a Glass Window](https://www.pexels.com/video/two-pumpkins-placed-near-a-glass-window-5490678/) | olia danilevich | Pexels License |
 | `made_ahead/scene/real_jack_stacked__kaboom` | [Video of a Jack-O'-Lantern](https://www.pexels.com/video/video-of-a-jack-o-lantern-5604115/) | Yaroslav Shuraev | Pexels License |
-| `timing_set/real/kettle__hissss` | [Steam Rising from Boiling Kettle](https://www.pexels.com/video/steam-rising-from-boiling-kettle-32001622/) | Dominik ZÃ­tka | Pexels License |
+| `timing_set/real/kettle__hissss` | [Steam Rising from Boiling Kettle](https://www.pexels.com/video/steam-rising-from-boiling-kettle-32001622/) | Dominik Zítka | Pexels License |
 | `timing_set/real/table_pumpkin__fwoooom` | [Laying Down A Pumpkin Over The Wooden Table](https://www.pexels.com/video/laying-down-a-pumpkin-over-the-wooden-table-5692173/) | Monstera Production | Pexels License |
 | `timing_set/real/cacti_pumpkin__fwoooom` | [A Pumpkin next to Potted Cacti and Succulents](https://www.pexels.com/video/a-pumpkin-next-to-potted-cacti-and-succulents-9894140/) | Nathan J Hilton | Pexels License |
 | `timing_set/real/hot_drink__hissss` | [Close Up Video of a Hot Drink](https://www.pexels.com/video/close-up-video-of-a-hot-drink-6938926/) | cottonbro studio | Pexels License |
